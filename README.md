@@ -1,6 +1,6 @@
 # vm-dashboard
 monitor os metrics
 
-## INSTALLATION 
+### Installation
 
 ```$ docker build -f Dockerfile.backend --tag python-osquery-base . ```
